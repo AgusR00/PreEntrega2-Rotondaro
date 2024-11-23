@@ -83,7 +83,7 @@ function menu() {
 
     do {
         opcion = prompt(
-            "Selecciona una opción:\n1. Agregar Contacto\n2. Buscar contacto\n3. Eliminar contacto\n4. Mostrar lista de contactos\n5. Salir del menú"
+            "Seleccioná una opción:\n1. Agregar Contacto\n2. Buscar contacto\n3. Eliminar contacto\n4. Mostrar lista de contactos\n5. Salir del menú"
         );
 
         switch (opcion) {
