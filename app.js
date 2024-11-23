@@ -100,7 +100,7 @@ function menu() {
                 mostrar();
                 break;
             case "5":
-                alert("Tu lista de contactos se ha actualizado :)");
+                alert("Saliste de la lista :)");
                 break;
             default:
                 alert("Opción no válida. Intenta de nuevo.");
